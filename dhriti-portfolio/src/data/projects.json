@@ -1,0 +1,26 @@
+[
+  {
+    "title": "dhriti-portfolio",
+    "imageSrc": "projects/project.png",
+    "description": "A modern and fully responsive personal portfolio website built using React.js to showcase my skills, projects, resume, and contact information. The website follows clean UI/UX design principles and is optimized for performance across devices.",
+    "skills":["React","html","css","tailwind","CSS Modules","git","github"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/DhritiSahu"
+  },
+  {
+    "title": "Task-Tracker-Application",
+    "imageSrc": "projects/project.png",
+    "description": "A simple and efficient Task Tracker app built using React.js that helps users add, manage, and delete daily tasks. It uses React hooks for state management and optionally integrates with local storage or a mock backend to persist data.",
+    "skills":["React","html","css","tailwind","git","github"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/DhritiSahu"
+  },
+  {
+    "title": "crud-react-app",
+    "imageSrc": "projects/project.png",
+    "description": "A responsive and user-friendly web application that performs CRUD operations (Create, Read, Update, Delete) on user data. Built using React.js with functional components and state management using hooks (useState, useEffect).",
+    "skills": ["html" ,"css" ,"React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/DhritiSahu"
+  }
+]

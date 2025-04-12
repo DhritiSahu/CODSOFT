@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Frontend Developer",
+    "organisation": "Personal Portfolio Project",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Designed and developed a responsive portfolio website using React.js and Tailwind CSS",
+      "Showcased skills, projects, and contact information with a modern UI/UX"
+    ],
+    "imageSrc": "history/heroImage.png"
+  },
+  {
+    "role": "Open Source Contributor",
+    "organisation": "GitHub",
+    "startDate": "Dec̥, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Fixed bugs and improved documentation in open-source projects",
+      "Collaborated globally to enhance functionality"
+    ],
+    "imageSrc": "history/github-mark-white.png"
+  },
+  {
+    "role": "Web Development Intern",
+    "organisation": "Codeplayers",
+    "startDate": "Feb, 2025",
+    "endDate": "March, 2025",
+    "experiences": [
+      "Worked on real-world React.js projects at Codeplayer Business System Pvt Ltd, focusing on UI       development with Reactstrap and dynamic data rendering.",
+      "Gained hands-on experience integrating backend APIs, managing component states, and building responsive interfaces."
+    ],
+    "imageSrc": "history/codeplayers.png"
+  }
+]
